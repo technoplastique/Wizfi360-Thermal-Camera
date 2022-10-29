@@ -1,1 +1,0 @@
-Add these folders to your Arduino library. I recommend updating all of your existing libraries before you start this project, and then not updating them until it is done!
