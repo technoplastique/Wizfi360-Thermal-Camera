@@ -6,7 +6,7 @@ This project uses a WizFi-360-EVB-Pico and an Arducam module HM0360 to create an
 
 I had initially planned to make the camera automatically connect to a thermal printer connected to a raspberry pi, but when I started trying to buy a raspberry pi for the project I realized they were basically unavailable right now and that I had to consider alternatives. Fortunately there is a whole ecosystem of little portable thermal printers that have their own phone apps. After some consideration I realized this made the camera much more fun that it otherwise would be. These printers have all sorts of different sizes, styles, and colors of materials, and most of them print stickers as well. The camera creates a thermal printing ready image (grayscale with good contrast), and you can save any “good” photos, eliminating the waste of printing bad pictures and allowing you to print unlimited copies of any photo you like.
 
-![This is an image](https://github.com/technoplastique/Wizfi360-Thermal-Printer-Camera/blob/main/537BF49D-4ECA-48B5-A856-8CAA36AB8E08.JPEG)
+![This is an image](https://github.com/technoplastique/Wizfi360-Thermal-Printer-Camera/blob/main/printer.jpg)
 
 I chose the Phomemo M02S, and I've found the print quality and material selection (I've found more than 30 kinds of printable rolls) to be both excellent for the project, and somewhat addictive.
 
